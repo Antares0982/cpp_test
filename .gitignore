@@ -1,0 +1,14 @@
+*.suo
+*.db
+*.ipch
+*.ilk
+*.pdb
+*.obj
+*.recipe
+*.tlog
+*.log
+*.lastbuildstate
+*.idb
+*.vcxproj
+*.filters
+*.user
